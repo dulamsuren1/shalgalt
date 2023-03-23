@@ -1,0 +1,42 @@
+/*style*/
+body{
+	background-color: floralwhite;
+}
+header{
+	padding-left: 50px;
+	background-color: floralwhite;
+	display: flex;
+	position: absolute;
+}
+
+#main-layout{
+
+	background-color: floralwhite;
+	display: flex;
+	justify-content: space-around;
+}
+.main-item{
+	padding-top: 100px;
+	width: 50%;
+
+}
+.main-item2{
+    width: 50%;
+}
+
+section{
+	padding-top: 50px;
+	padding-left: 100px;
+}
+button{
+
+	border: none;
+	border-radius: 20px;
+	color: white;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 30px 4px 20;
+    cursor: pointer;
+}
